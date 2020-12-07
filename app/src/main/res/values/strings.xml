@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Xopsdev1</string>
+    <string name="whatshot">WhatsHot!</string>
+    <string name="cloud_ops_home_logo">Cloud Ops Home Logo</string>
+    <string name="xops_logo">XOps Logo</string>
+    <string name="operate360">Operate360</string>
+    <string name="cloudavailability_image">Cloudavailability Image</string>
+    <string name="executive_watchlist_image">executive_watchlist Image</string>
+    <string name="leadersconnect_image">leadersconnect Image</string>
+    <string name="whatshotimagehome">whatshotimagehome</string>
+    <string name="leadersconnect_img">Leadersconnect_Image</string>
+</resources>
